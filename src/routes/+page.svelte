@@ -1,5 +1,8 @@
-<script></script>
+<script>
+	import Navigation from "$lib/Navigation.svelte";
+
+</script>
 
 <main>
-	<h1>In Progress...</h1>
+	<Navigation />
 </main>
