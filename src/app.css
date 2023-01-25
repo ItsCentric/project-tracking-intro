@@ -5,6 +5,6 @@
 
 @layer base {
     nav, h1, h2, h3 {
-        font-family: Condensed Barlow, system-ui, sans-serif;
+        @apply font-condensed;
     }
 }

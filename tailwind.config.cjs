@@ -16,11 +16,14 @@ module.exports = {
       },
       fontFamily: {
         'sans': ['Barlow', ...defaultTheme.fontFamily.sans],
-      }
+      },
+      fontSize: {
+        base: '18px',
+      },
     },
-    fontSize: {
-      base: '18px',
-    },
+    fontFamily: {
+      'condensed': ['"Barlow Condensed"'],
+    }
   },
   plugins: [],
 }
